@@ -20,6 +20,7 @@ dev.azure.com
 login.microsoftonline.com
 management.core.windows.net
 vstsagentpackage.azureedge.net
+api.snapcraft.io
 13.107.6.0/24
 13.107.9.0/24
 13.107.42.0/24
